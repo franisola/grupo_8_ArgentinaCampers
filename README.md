@@ -1,6 +1,7 @@
 # grupo_-_nombre
 Proyecto grupo 8
-El servicio que nosotros brindamos es el alquiler de CamperVans y MotorHome, hola a todos
+
+Nuestra empresa apuntara al todas las personas que busquen explorar distintas opciones de viajes y redescubrirse, permitiendo explorar distintos lugares sin la necesidad de buscar hoteles y formas de viajar abaratando tanto costos como formas de viajar fusionándolos para darle al usuario una experiencia única de poder tener su alojamiento en donde quiera.
 
 Referencia de páginas webs:
 #1 http://www.rentalmotorhome.com.ar/ 

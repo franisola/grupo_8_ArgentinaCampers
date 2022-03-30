@@ -1,8 +1,8 @@
-# grupo_8_nombre
+# grupo_8_ArgentinaCampers
 Proyecto grupo 8
 
 
-Link del repositorio: https://github.com/franisola/grupo_8_nombre
+Link del repositorio: https://github.com/franisola/grupo_8_ArgentinaCampers
 
 
 Temática del Market Place: 

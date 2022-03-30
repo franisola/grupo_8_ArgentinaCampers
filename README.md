@@ -10,7 +10,7 @@ Servicio de alquiler de MotorHomes y CamperVans.
 
 
 Oferta de los productos: 
-Nuestra empresa apuntara al todas las personas que busquen explorar distintas opciones de viajes y redescubrirse, permitiendo explorar distintos lugares sin la necesidad de buscar hoteles y formas de viajar abaratando tanto costos como formas de viajar fusionándolos para darle al usuario una experiencia única de poder tener su alojamiento en donde quiera.
+Nuestra empresa apuntara al todas las personas que busquen explorar distintas opciones de viajes y redescubrirse, permitiendo explorar distintos lugares sin la necesidad de buscar hoteles y formas de viajar abaratando tanto costos como formas de viajar. Fusionándolos para darle al usuario una experiencia única de poder tener su alojamiento en donde quiera.
 
 
 Público: 

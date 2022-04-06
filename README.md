@@ -35,4 +35,4 @@ Referencia de páginas webs:
 #7 https://wickedcampers.cl/ 
 
 
-HACER WIREFRAME --> marvelapp.com
+Link hacia el trello --> https://trello.com/b/7F7QBzPf/integrador
